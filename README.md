@@ -1,8 +1,11 @@
 # RxSwift-MVVM-Watch
-An app based on a simple MVVM model decorated with RxSwift and accompanied with a Watch app.
+### An app based on a simple MVVM model decorated with RxSwift and accompanied with a Watch app.
 
-In this project, a ViewModel taking inputs from a View(Controller) and giving back outputs to the responsible View has been benefited. RxSwift is for subscribing data flow from [the public API of MetMuseum](https://metmuseum.github.io) and then binding the data to a CollectionView. 
-A Watch companion for only displaying the data from iPhone App may also be found in this project.
+In this project, a *ViewModel* taking inputs from a *View*(Controller) and giving back outputs to the responsible View has been benefited. 
+
+*RxSwift* is for subscribing data flow from [the public API of MetMuseum](https://metmuseum.github.io) and then binding the data to a CollectionView. 
+
+A *Watch* companion for only displaying the data from iPhone App may also be found in this project.
 
 A peek for the app is given below.
 
